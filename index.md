@@ -9,7 +9,7 @@
       <p><b>邮箱：zzlin1224@gmail.com</b></p>
       </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg"width="100%">
+      <img src="/zhengjianzhoa.jpg"width="100%">
    </td>
     </tr>
   </table>
