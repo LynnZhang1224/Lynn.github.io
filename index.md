@@ -1,5 +1,4 @@
-![图片描述]（图片链接）
-![证件照]（/zhengjianzhao.jpg）
+
 <table border="0">
   <tr>
     <td width="75%">
@@ -13,11 +12,3 @@
    </td>
     </tr>
   </table>
-## LynnZhang的作品集主页
-### 个人信息
-#### 姓名：张政霖Lynn
-#### 学历：本科在读
-#### 学校：上海交通大学
-#### 邮箱：zzlin1224@gmail.com
-
-### 作品展示
